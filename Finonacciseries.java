@@ -1,4 +1,4 @@
-package JavaPrigrams;
+package JavaPrograms;
 import java.util.*;
 public class Finonacciseries {
 	public static void main(String[] args) {
